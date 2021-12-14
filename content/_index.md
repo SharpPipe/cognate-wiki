@@ -1,9 +1,7 @@
-## Front Page Content
+## Wiki for Gitlab-Hub
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-/ [Hugo](https://gohugo.io) and can be built in under 1 minute.
-Literally. It uses the `beautifulhugo` theme which supports content on your front page.
-Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md`
-if you don't want any content here.
+The next generation of enterprise software for ambitious teachers, who are ready to take their classes to the next level with modern cloud and quantum computing technologies.  
 
-Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+Authors
+- Mart Kaasik
+- Kristjan Kõiv
