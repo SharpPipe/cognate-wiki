@@ -51,3 +51,9 @@ pygmentCodeFences = true
     name = "0 - Nintendo"
     url = "retros/2021-12-14-nintendo"
     weight = 1
+
+[[menu.main]]
+    parent = "retros"
+    name = "1 - Tap to start"
+    url = "retros/2022-01-04-tap-to-start"
+    weight = 2
