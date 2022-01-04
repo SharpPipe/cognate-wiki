@@ -1,4 +1,4 @@
-baseurl = "https://krikoi.gitlab.io/gitlab-hub-wiki"
+baseurl = "https://gitlab-hub.pages.taltech.ee/gitlab-hub-wiki"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
