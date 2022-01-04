@@ -48,6 +48,6 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "retros"
-    name = "0 - Tap to start"
-    url = "retros/2021-12-14-tap-to-start"
+    name = "0 - Nintendo"
+    url = "retros/2021-12-14-nintendo"
     weight = 1
