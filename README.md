@@ -1,5 +1,5 @@
 ![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)
-
+# [The Wiki Page](https://gitlab-hub.pages.taltech.ee/gitlab-hub-wiki/)
 ---
 
 Example [Hugo] website using GitLab Pages.
