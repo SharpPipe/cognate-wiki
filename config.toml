@@ -2,7 +2,7 @@ baseurl = "https://gitlab-hub.pages.taltech.ee/gitlab-hub-wiki"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Gitlab Hub"
+title         = "Gitlab Hub"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -38,7 +38,7 @@ pygmentCodeFences = true
 
 [[menu.main]]
     identifier = "retros"
-    name = "Retros"
+    name = "The Cognate Project Retros"
     weight = 1
 
 [[menu.main]]
@@ -55,5 +55,41 @@ pygmentCodeFences = true
 [[menu.main]]
     parent = "retros"
     name = "1 - Tap to start"
-    url = "retros/2022-01-04-tap-to-start"
+    url = "retros/2021-12-20-tap-to-start"
     weight = 2
+
+[[menu.main]]
+    parent = "retros"
+    name = "2 - The Known World"
+    url = "retros/2022-01-04-the-known-world"
+    weight = 3
+
+[[menu.main]]
+    parent = "retros"
+    name = "3 - Challenge to Reality"
+    url = "retros/2022-01-16-challenge-to-reality"
+    weight = 4
+
+[[menu.main]]
+    parent = "retros"
+    name = "4 - Refusal of the Call"
+    url = "retros/2022-01-23-refusal-of-the-call"
+    weight = 5
+
+#[[menu.main]]
+#    parent = "retros"
+#    name = "5 - Meeting the Mentor"
+#    url = "retros/2022-01-30-meeting-the-mentor"
+#    weight = 6
+
+#[[menu.main]]
+#    parent = "retros"
+#    name = "6 - Cross the Threshold"
+#    url = "retros/2022-02-06-cross-the-threshold"
+#    weight = 7
+
+#[[menu.main]]
+#    parent = "retros"
+#    name = "7 - Prepare for Change"
+#    url = "retros/2022-02-13-prepare-for-change"
+#    weight = 8

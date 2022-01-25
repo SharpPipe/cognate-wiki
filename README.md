@@ -1,13 +1,6 @@
-![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)
 # [The Wiki Page](https://gitlab-hub.pages.taltech.ee/gitlab-hub-wiki/)
 ---
 
-Example [Hugo] website using GitLab Pages.
-
-Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation https://docs.gitlab.com/ce/user/project/pages/.
-
----
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
