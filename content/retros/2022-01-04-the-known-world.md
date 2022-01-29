@@ -12,4 +12,4 @@ date: 2022-01-04
 ## Got done during meeting
 - New issues to gitlab
 
-![](/retro2/price.png)
+![](/retro1/price.png)

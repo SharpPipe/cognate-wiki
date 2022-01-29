@@ -14,4 +14,4 @@ date: 2022-01-23
 - New issues to gitlab
 - Talked about how now things are getting more serious, and we need to stay professional
 - We need to be an excellent example for all the other teams doing their final bachelor's thesis right now and also to the next generation of iaib students
-![](/retro4/rejoicing.gif)
+![](/retro3/rejoicing.gif)

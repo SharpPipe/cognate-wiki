@@ -12,14 +12,14 @@ date: 2021-12-20
 ## Got done during meeting
 - Ported Hugo wiki to Taltech servers
 
-![](/retro1/Browser.png)
+![](/retro0/Browser.png)
 
-![](/retro1/Gitlab_groups.png)
+![](/retro0/Gitlab_groups.png)
 
-![](/retro1/Grade.png)
+![](/retro0/Grade.png)
 
-![](/retro1/Group_repos.png)
+![](/retro0/Group_repos.png)
 
-![](/retro1/Milestone.png)
+![](/retro0/Milestone.png)
 
-![](/retro1/Repo.png)
+![](/retro0/Repo.png)

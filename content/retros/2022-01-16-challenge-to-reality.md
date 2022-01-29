@@ -15,4 +15,4 @@ date: 2022-01-16
 - Got into the spirit of the season 🎄
 
 ## The Schema 💦 
-![](/retro3/db.png)
+![](/retro2/db.png)
