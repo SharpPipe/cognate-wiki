@@ -8,5 +8,5 @@ The next generation of enterprise software for ambitious teachers, who are ready
 
 ### Authors
 
-- Mart Kaasik
-- Kristjan Kõiv
+- 🐝 Mart Kaasik
+- 🐞 Kristjan Kõiv
