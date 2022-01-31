@@ -10,3 +10,4 @@ The next generation of enterprise software for ambitious teachers, who are ready
 
 - 🐝 Mart Kaasik
 - 🐞 Kristjan Kõiv
+- 🐒 Karl Raud
