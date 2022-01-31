@@ -1,4 +1,4 @@
-# [The Wiki Page](https://gitlab-hub.pages.taltech.ee/gitlab-hub-wiki/)
+# [The Wiki Page](https://cognate.pages.taltech.ee/wiki/)
 ---
 
 
