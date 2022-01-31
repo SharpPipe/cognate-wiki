@@ -19,8 +19,19 @@ date: 2022-01-29
   - 🐞 There is a GET endpoint for getting a specific users groups
   - 🐞 Some minor bugfixes
 
-## Chat with Ago
-
+## Chat with Ago 🐢
+- Ago seemed to like our progress so far
+- Suggestions for UI
+  - Collapsable/Expandable views in listing repos
+  - Relative comparison with other repos
+  - Configurable grading
+  - View to get non-active students
+  - _Stretch goal: Advanced search filter with custom queries_
+    - Alternately we can make an Elasticsearch wizard
+- Convinced us to take on a third dev
+  - Raud 🐒 joined the team
+  - Reluctantly.
+- Urged us to follow best practices when writing and documenting code
 
 ## Planned for next milestone
 - Management and documentation
