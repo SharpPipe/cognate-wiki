@@ -4,8 +4,6 @@ date: 2022-01-29
 ---
 > This is the part where the hero meets the mentor. Meeting the mentor realizes one’s dreams, where the protagonist might receive an object of great importance, some advice, training, or motivation from his mentor.
 
-> Mulle tundub, et Ago on asjalikum kui Gert
-
 ## Got done during milestone
 - Management and documentation
   - 🐝 Milestones and issues are now on project level, so they are no longer that tied to a specific repo
