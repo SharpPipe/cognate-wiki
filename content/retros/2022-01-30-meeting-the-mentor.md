@@ -31,6 +31,8 @@ date: 2022-01-29
 - Convinced us to take on a third dev
   - Raud 🐒 joined the team
   - Reluctantly.
+  - And then he left after realizing that he has to write a few pages of description of what he did
+  - Pathetic. 
 - Urged us to follow best practices when writing and documenting code
 
 ## Planned for next milestone
