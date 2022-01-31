@@ -1,5 +1,5 @@
 ---
-title: Gitlab Hub
+title: Cognate
 subtitle: For the innovating innovator
 comments: false
 ---
