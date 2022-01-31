@@ -1,8 +1,8 @@
-baseurl = "https://gitlab-hub.pages.taltech.ee/gitlab-hub-wiki"
+baseurl = "https://cognate.pages.taltech.ee/wiki"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title         = "Gitlab Hub"
+title         = "Cognate"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -15,7 +15,7 @@ pygmentCodeFences = true
 
 [Params]
   subtitle = "Analyzing big data with innovative 5G technologies"
-  logo = "img/computer.gif"
+  logo = "img/logo.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
