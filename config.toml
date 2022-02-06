@@ -82,11 +82,11 @@ pygmentCodeFences = true
     url = "retros/2022-01-30-meeting-the-mentor"
     weight = 6
 
-#[[menu.main]]
-#    parent = "retros"
-#    name = "5 - Cross the Threshold"
-#    url = "retros/2022-02-06-cross-the-threshold"
-#    weight = 7
+[[menu.main]]
+    parent = "retros"
+    name = "5 - Cross the Threshold"
+    url = "retros/2022-02-06-cross-the-threshold"
+    weight = 7
 
 #[[menu.main]]
 #    parent = "retros"
