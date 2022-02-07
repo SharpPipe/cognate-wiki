@@ -27,6 +27,18 @@ date: 2022-02-06
   - [ ] Some minor bugfixes
 
 ## Chat with Ago 🐢
+- The project mission statement A4 paper
+  - Regarding the Methodology subsection, he advised us to write about how we are going to use MVC patterns, Agile development, Rest frameworks, DevOps 3.0, some other best practices and on the design front we should research different design patterns like Data Oriented Design
+  - Sources should include some articles on what is Restful architecture and other documentations (Django tutroial 🤭)
+  - Also he urged us to look over and clarify our objectives. Use words like _analysis_, _synthesis_, _comparison_ and _trajectory prognosis_
+    - I also suggested to use words like _360 holographic view of every person on the team_ but Kristjan did not like that #sad
+- Suggestions to get inspirations form other products like github project management tools an such came up as well
+- He wants a somewhat working product by Sunday where:
+  - teacher will be able to define a course and all the grading components
+  - mentor and teacher can see the progress of their groups
+  - mentor can grade groups
+  - (it doesn't need super fancy visualizations at first)
+- Ago was proud of us 
 
 ## Planned for next milestone
 - General
