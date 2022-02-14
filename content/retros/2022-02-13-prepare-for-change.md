@@ -30,6 +30,16 @@ date: 2022-02-13
 
 
 ## Chat with Ago 🐢
+- Ago "munes" and was late to the meeting
+- Ago suggested to do a standup on friday to discuss our Task Setting paper, which is due in the next monday
+- Ago was not that amused with the graphs and trees as Mart 🐝 would have hoped 
+- He wants to have a view where he sees stats on every student
+  - I am thinking of a table where, depending of the column you select, a graph changes
+- Tests
+  - No need to test front yay
+  - Maybe test the data agregators in the back
+- Ago want something clickable and he wants it fast
+
 
 ## Planned for next milestone
 ### Thursday deadline
