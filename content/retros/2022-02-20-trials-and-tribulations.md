@@ -11,7 +11,7 @@ date: 2022-02-13
   - 13 Merge requests merged
 - 🐞 Project analysis
 - 🐞 Time spent is taken into account when calculating suggested grade
-- 🐞 Milestone enpoint optimizations
+- 🐞 Milestone endpoint optimizations
 - 🐞 Endpoint for time spent data
 - 🐞 Bulk grade endpoint
 - 🐞 Feedback endpoint
@@ -22,7 +22,7 @@ date: 2022-02-13
   - 🐝 Slider show the final grade in realtime
     - 🐝 On a progressbar
     - 🐝 On a radar chart
-  - 🐝 Submit button uses the bulk grade enpoint to save the grades
+  - 🐝 Submit button uses the bulk grade endpoint to save the grades
 
 
 ## Chat with Ago 🐢
