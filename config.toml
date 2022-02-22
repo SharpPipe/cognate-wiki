@@ -93,3 +93,9 @@ pygmentCodeFences = true
     name = "6 - Prepare for Change"
     url = "retros/2022-02-13-prepare-for-change"
     weight = 8
+
+[[menu.main]]
+    parent = "retros"
+    name = "7 - Trials and Tribulations"
+    url = "retros/2022-02-20-trials-and-tribulations"
+    weight = 9
