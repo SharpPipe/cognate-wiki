@@ -6,7 +6,7 @@ date: 1022-04-03
 
 
 ## Plan
-- Do something
+- Add semantic analysis to issue descriptions and factor that into grading.
 
 ## Got done during milestone
 

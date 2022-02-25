@@ -6,7 +6,10 @@ date: 1022-03-20
 
 
 ## Plan
-- Do something
+- Add a lot of new graphs
+  - All groups results in one graph
+  - Results by mentor
+- Bring out problem students / groups explicitly to give some early warning
 
 ## Got done during milestone
 

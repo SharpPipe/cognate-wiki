@@ -6,7 +6,7 @@ date: 1022-03-27
 
 
 ## Plan
-- Do something
+- Finish the general grading system as well, so that content grading could also be done using out application
 
 ## Got done during milestone
 
