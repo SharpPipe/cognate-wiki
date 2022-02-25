@@ -1,6 +1,6 @@
 ---
-title: Prepare for Change
-date: 2022-02-13
+title: Trials and Tribulations
+date: 2022-02-20
 ---
 > This represents a danger, confrontation with a foe, or an actual place where the hero must enter to face the true challenge. It is the call for the final battle. While entering the cave, the hero might once again face his fears and doubts.
 

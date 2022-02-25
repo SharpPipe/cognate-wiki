@@ -42,6 +42,11 @@ pygmentCodeFences = true
     weight = 1
 
 [[menu.main]]
+    identifier = "future"
+    name = "Future plan"
+    weight = 2
+
+[[menu.main]]
     name = "About"
     url = "page/about/"
     weight = 3
@@ -99,3 +104,39 @@ pygmentCodeFences = true
     name = "7 - Trials and Tribulations"
     url = "retros/2022-02-20-trials-and-tribulations"
     weight = 9
+
+[[menu.main]]
+    parent = "future"
+    name = "8 - Deep Work"
+    url = "retros/2022-02-27-deep-work"
+    weight = 1
+
+[[menu.main]]
+    parent = "future"
+    name = "9 - Embodying the Change"
+    url = "retros/2022-03-06-embodying-the-change"
+    weight = 2
+
+[[menu.main]]
+    parent = "future"
+    name = "10 - Return to the World"
+    url = "retros/2022-03-13-return-to-world"
+    weight = 3
+
+[[menu.main]]
+    parent = "future"
+    name = "11 - Deliver new Level"
+    url = "retros/2022-03-20-deliver-new-level"
+    weight = 4
+
+[[menu.main]]
+    parent = "future"
+    name = "12 - Inspire Others"
+    url = "retros/2022-03-27-inspire-others"
+    weight = 5
+
+[[menu.main]]
+    parent = "future"
+    name = "13 - The Known World"
+    url = "retros/2022-04-03-the-known-world"
+    weight = 6
