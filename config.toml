@@ -106,22 +106,22 @@ pygmentCodeFences = true
     weight = 9
 
 [[menu.main]]
-    parent = "future"
+    parent = "retros"
     name = "8 - Deep Work"
     url = "retros/2022-02-27-deep-work"
-    weight = 1
+    weight = 10
 
 [[menu.main]]
-    parent = "future"
+    parent = "retros"
     name = "9 - Embodying the Change"
     url = "retros/2022-03-06-embodying-the-change"
-    weight = 2
+    weight = 11
 
 [[menu.main]]
-    parent = "future"
+    parent = "retros"
     name = "10 - Return to the World"
     url = "retros/2022-03-13-return-to-world"
-    weight = 3
+    weight = 12
 
 [[menu.main]]
     parent = "future"
