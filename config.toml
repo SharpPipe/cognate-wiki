@@ -124,10 +124,10 @@ pygmentCodeFences = true
     weight = 12
 
 [[menu.main]]
-    parent = "future"
+    parent = "retros"
     name = "11 - Deliver new Level"
     url = "retros/2022-03-20-deliver-new-level"
-    weight = 4
+    weight = 13
 
 [[menu.main]]
     parent = "future"
