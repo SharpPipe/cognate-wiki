@@ -130,10 +130,10 @@ pygmentCodeFences = true
     weight = 13
 
 [[menu.main]]
-    parent = "future"
+    parent = "retros"
     name = "12 - Inspire Others"
     url = "retros/2022-03-27-inspire-others"
-    weight = 5
+    weight = 14
 
 [[menu.main]]
     parent = "future"
