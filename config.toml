@@ -136,7 +136,7 @@ pygmentCodeFences = true
     weight = 14
 
 [[menu.main]]
-    parent = "future"
+    parent = "retros"
     name = "13 - The Known World"
     url = "retros/2022-04-03-the-known-world"
-    weight = 6
+    weight = 15
