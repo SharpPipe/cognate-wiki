@@ -146,3 +146,9 @@ pygmentCodeFences = true
     name = "14 - Challenge to reality"
     url = "retros/2022-04-10-challenge-to-reality"
     weight = 16
+
+[[menu.main]]
+    parent = "retros"
+    name = "15 - Post-structual Monumentality"
+    url = "retros/2022-04-17-post-structual-monumentality"
+    weight = 16
