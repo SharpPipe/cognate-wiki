@@ -158,3 +158,33 @@ pygmentCodeFences = true
     name = "16 - Commune"
     url = "retros/2022-04-24-commune"
     weight = 17
+
+[[menu.main]]
+    parent = "retros"
+    name = "17 - Natural Habitat"
+    url = "retros/2022-05-02-natural-habitat"
+    weight = 18
+
+[[menu.main]]
+    parent = "retros"
+    name = "18 - Global Village"
+    url = "retros/2022-05-09-global-village"
+    weight = 19
+
+[[menu.main]]
+    parent = "retros"
+    name = "19 - If you plan if for one year, plant rice"
+    url = "retros/2022-05-16-plant-rice"
+    weight = 20
+
+[[menu.main]]
+    parent = "retros"
+    name = "20 - If you plan if for ten years, plant trees"
+    url = "retros/2022-05-23-plant-trees"
+    weight = 21
+
+[[menu.main]]
+    parent = "retros"
+    name = "21 - If you plan if for 100 years, educate children"
+    url = "retros/2022-05-31-educate-children"
+    weight = 22
