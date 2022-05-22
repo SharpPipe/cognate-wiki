@@ -19,8 +19,8 @@ pygmentCodeFences = true
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
-  comments = true
+  rss = false
+  comments = false
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
@@ -38,7 +38,7 @@ pygmentCodeFences = true
 
 [[menu.main]]
     identifier = "retros"
-    name = "The Cognate Project Retros"
+    name = "The Retros from the First Era"
     weight = 1
 
 [[menu.main]]
@@ -188,3 +188,17 @@ pygmentCodeFences = true
     name = "21 - If you plan if for 100 years, educate children"
     url = "retros/2022-05-31-educate-children"
     weight = 22
+
+
+
+# Second era
+[[menu.main]]
+    identifier = "retros2"
+    name = "The Retros from the Second Era"
+    weight = 1
+
+[[menu.main]]
+    parent = "retros2"
+    name = "1 - [first milestone name here]"
+    url = "retros2/1-first-milestone"
+    weight = 1
