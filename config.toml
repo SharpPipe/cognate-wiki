@@ -44,14 +44,20 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "rec"
-    name = "Tutorials"
-    url = "tutorials/tutorials"
+    name = "Development tutorials"
+    url = "tutorials/development"
     weight = 1
 
 [[menu.main]]
     parent = "rec"
     name = "Onboarding"
     url = "tutorials/onboarding"
+    weight = 1
+
+[[menu.main]]
+    parent = "rec"
+    name = "Cognate tutorials"
+    url = "tutorials/cognate"
     weight = 1
 
 [[menu.main]]

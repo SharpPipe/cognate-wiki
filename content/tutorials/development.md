@@ -1,9 +1,9 @@
 
 ---
-title: Tutorials
+title: Development tutorials
 ---
 
-> The art of making the impossible possible, possible easy and easy elegant. 
+> The art of making the impossible possible, possible easy and easy elegant.
 
 ## List of resources that helped build Cognate
 
